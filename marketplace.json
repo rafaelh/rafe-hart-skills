@@ -1,0 +1,21 @@
+{
+  "name": "rafaelh",
+  "description": "Rafe Hart's Claude Code plugins",
+  "owner": {
+    "name": "Rafe Hart"
+  },
+  "plugins": [
+    {
+      "name": "skill-optimizer",
+      "description": "Audit, optimize, and validate Claude skill files (SKILL.md)",
+      "source": "./skill-optimizer/",
+      "category": "development"
+    },
+    {
+      "name": "photo-video-organise",
+      "description": "Organize large photo and video collections into date-based archives, preserving RAW+JPEG and Live Photo pairs",
+      "source": "./photo-video-organise/",
+      "category": "productivity"
+    }
+  ]
+}

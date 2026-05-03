@@ -1,0 +1,6 @@
+{
+  "name": "photo-video-organise",
+  "description": "Organize large photo and video collections into date-based archives, preserving RAW+JPEG and Live Photo pairs",
+  "version": "1.0.0",
+  "author": { "name": "Rafe Hart" }
+}
